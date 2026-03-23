@@ -1,9 +1,10 @@
 # Zoo Booking System
 
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3.0-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![PHP](https://img.shields.io/badge/PHP-7.4-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![CSS](https://img.shields.io/badge/CSS-3.0-blue)
 
 A full stack PHP/MySQL web application for **Riget Zoo Adventures**, featuring user authentication, zoo visit booking, loyalty rewards, and a user dashboard.  
 This project demonstrates front-end and back-end skills, database design, and full-stack integration.
